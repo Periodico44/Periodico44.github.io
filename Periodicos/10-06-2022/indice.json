@@ -1,0 +1,37 @@
+[
+    
+    
+    
+    {
+        
+        "id": 1,
+        "fuenteImage": "https://aldido.github.io/Periodico/ImagenesPrincipal/TorneoRubik.jpeg",
+        "fecha": "8/06/2022"
+        
+    },
+    {
+        "id": 2,
+        "fuenteImage": "https://aldido.github.io/Periodico/ImagenesPrincipal/DiaEstudiante.jpeg",
+        "fecha": "8/06/2022"
+    },
+    {
+        "id": 3,
+        "fuenteImage": "https://aldido.github.io/Periodico/ImagenesPrincipal/DiaAmiente.jpeg",
+        "fecha": "8/06/2022"
+    },
+    {
+        "id": 4,
+        "fuenteImage": "https://aldido.github.io/Periodico/ImagenesPrincipal/DiaPapa.jpeg",
+        "fecha": "8/06/2022"
+    },
+    {
+        "id": 5,
+        "fuenteImage": "https://aldido.github.io/Periodico/ImagenesPrincipal/Reglas.jpeg",
+        "fecha": "8/06/2022"
+    },
+    {
+        "id": 6,
+        "fuenteImage": "https://aldido.github.io/Periodico/ImagenesPrincipal/DiaAmiente.jpeg",
+        "fecha": "8/06/2022"
+    }
+]
